@@ -1,0 +1,6 @@
+Validation summary after cleaning
+raw_rows: 151
+cleaned_rows: 150
+exact_duplicates_cleaned: 0
+missing_values_cleaned: 0
+numeric_dtypes: {'sepal_length_cm': 'float64', 'sepal_width_cm': 'float64', 'petal_length_cm': 'float64', 'petal_width_cm': 'float64'}
